@@ -1,0 +1,13 @@
+E:\dlproj\Setting Management\bin\Debug\Setting Management.exe.config
+E:\dlproj\Setting Management\bin\Debug\Setting Management.exe
+E:\dlproj\Setting Management\bin\Debug\Setting Management.pdb
+E:\dlproj\Setting Management\bin\Debug\SunnyUI.Common.dll
+E:\dlproj\Setting Management\bin\Debug\SunnyUI.dll
+E:\dlproj\Setting Management\obj\Debug\Setting Management.csproj.AssemblyReference.cache
+E:\dlproj\Setting Management\obj\Debug\Setting_Management.Form1.resources
+E:\dlproj\Setting Management\obj\Debug\Setting_Management.Properties.Resources.resources
+E:\dlproj\Setting Management\obj\Debug\Setting Management.csproj.GenerateResource.cache
+E:\dlproj\Setting Management\obj\Debug\Setting Management.csproj.CoreCompileInputs.cache
+E:\dlproj\Setting Management\obj\Debug\Setting Management.csproj.CopyComplete
+E:\dlproj\Setting Management\obj\Debug\Setting Management.exe
+E:\dlproj\Setting Management\obj\Debug\Setting Management.pdb
